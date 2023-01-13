@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Big7lion
-- 👀 I’m interested in `Ruby` / `Elixir` / `Frontend` / `Flutter`
+- 👀 I’m interested in `Elixir` / [`Dark`](https://darklang.com/)
+- 👨‍💻 I’m working with `React` / `Vue` / `Ruby` / `Flutter`
 - 🌱 I’m currently learning `Threejs`
 - 🎶 My favorite song is David Tao's [沙滩](https://www.bilibili.com/video/BV1xK4y1P7nA), You might love it, too
 
