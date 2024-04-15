@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Big7lion
-- 👀 I’m interested in `Elixir` /  [`Dark`](https://darklang.com/)
+- 👀 I’m interested in [`Elixir`](https://elixir-lang.org/) /  [`Dark`](https://darklang.com/)
 - 👨‍💻 I’m working with `React` / `Vue` / `Typescript` / `Ruby on Rails` / `Flutter` / `uniapp`
 - 🌱 I’m currently learning `Threejs` / `Pine Script`
 - 💻 my editor is [`Cursor + vim mode`](https://www.cursor.so/) / [`Neovim`](https://github.com/Big7lion/ecovim)
