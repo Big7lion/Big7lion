@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Big7lion
+- 👋 Hi, I’m [@Big7lion](mailto:biglion77@outlook.com)
 - 👀 I’m interested in [`Elixir`](https://elixir-lang.org/) /  [`Dark`](https://darklang.com/)
 - 👨‍💻 I’m working with `React` / `Vue` / `Typescript` / `Ruby on Rails` / `Flutter` / `uniapp`
 - 🌱 I’m currently learning `Threejs` / `Pine Script`
