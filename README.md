@@ -2,6 +2,7 @@
 - 👀 I’m interested in `Elixir` /  [`Dark`](https://darklang.com/)
 - 👨‍💻 I’m working with `React` / `Vue` / `Typescript` / `Ruby on Rails` / `Flutter` / `uniapp`
 - 🌱 I’m currently learning `Threejs` / `Pine Script`
+- 💻 my editor is [`Cursor + vim mode`](https://www.cursor.so/) / [`Neovim`](https://github.com/Big7lion/ecovim)
 - 🤖 I also have some PCB design skills and have assembled a couple of 3D printed robots
 - 🪙 "Invest with caution", because I just paid a "tuition fee" in the cryptocurrency market 🥹.
 - 🎶 My favorite song is David Tao's [沙滩](https://www.bilibili.com/video/BV1xK4y1P7nA), You might love it, too
